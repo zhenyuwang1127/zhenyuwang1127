@@ -2,7 +2,7 @@
 
 I'm an AI researcher interested in **Reliable AI, Remote Sensing, and LLM/VLM Reasoning & Reliability**.
 
-My research spans remote sensing change detection, model robustness, reliability auditing, and foundation models.
+My research started from **remote sensing change detection** and has gradually expanded toward **model robustness, reliability auditing, failure diagnosis, and foundation models**.
 
 ## 🔬 Research Interests
 
@@ -14,13 +14,15 @@ My research spans remote sensing change detection, model robustness, reliability
 
 ## 📚 Research Journey
 
-My work started from **remote sensing image change detection** and gradually expanded toward **model robustness, reliability, and failure diagnosis**, with current interests in **LLM/VLM reasoning and reliability**.
+My early work focused on **remote sensing image change detection**, including lightweight architectures, cross-domain robustness, and reliable post-hoc verification.
 
-## 🔗 Links
+I am currently interested in understanding **how AI systems reason, fail, and recover**, with a particular focus on **LLM/VLM reliability and interpretability**.
 
-- ORCID: https://orcid.org/0009-0007-6984-1368
-- GitHub: https://github.com/zhenyuwang1127
+## 🔗 Academic Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=irPtGy8AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0007-6984-1368)
 
 ## 📫 Contact
 
-- Email: wangzhenyu1127@stu.xju.edu.cn
+- GitHub: [@zhenyuwang1127](https://github.com/zhenyuwang1127)
