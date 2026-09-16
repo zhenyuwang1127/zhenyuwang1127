@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Zhenyu Wang 👋
 
-<!--
-**zhenyuwang1127/zhenyuwang1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI researcher interested in **Reliable AI, Remote Sensing, and LLM/VLM Reasoning & Reliability**.
 
-Here are some ideas to get you started:
+My research spans remote sensing change detection, model robustness, reliability auditing, and foundation models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Reliable AI & Model Robustness
+- Remote Sensing Change Detection
+- LLM/VLM Reasoning & Reliability
+- Test-Time Adaptation
+- Model Failure Diagnosis
+
+## 📚 Research Journey
+
+My work started from **remote sensing image change detection** and gradually expanded toward **model robustness, reliability, and failure diagnosis**, with current interests in **LLM/VLM reasoning and reliability**.
+
+## 🔗 Links
+
+- ORCID: https://orcid.org/0009-0007-6984-1368
+- GitHub: https://github.com/zhenyuwang1127
+
+## 📫 Contact
+
+- Email: wangzhenyu1127@stu.xju.edu.cn
